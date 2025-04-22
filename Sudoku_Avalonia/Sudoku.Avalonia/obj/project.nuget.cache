@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "KaS0px/T0I8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adorján\\Documents\\1. év\\algo\\Sudoku_Avalonia\\Sudoku.Avalonia\\Sudoku.Avalonia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia\\11.2.0\\avalonia.11.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia.buildservices\\0.0.29\\avalonia.buildservices.0.0.29.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia.controls.colorpicker\\11.2.0\\avalonia.controls.colorpicker.11.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia.controls.datagrid\\11.2.0\\avalonia.controls.datagrid.11.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia.diagnostics\\11.2.0\\avalonia.diagnostics.11.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia.fonts.inter\\11.2.0\\avalonia.fonts.inter.11.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia.remote.protocol\\11.2.0\\avalonia.remote.protocol.11.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia.themes.fluent\\11.2.0\\avalonia.themes.fluent.11.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\avalonia.themes.simple\\11.2.0\\avalonia.themes.simple.11.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\dialoghost.avalonia\\0.8.1\\dialoghost.avalonia.0.8.1.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\messagebox.avalonia\\3.2.0\\messagebox.avalonia.3.2.0.nupkg.sha512",
+    "C:\\Users\\Adorján\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

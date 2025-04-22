@@ -1,0 +1,5 @@
+drawable\icon;drawable\Icon
+drawable\splash_screen;drawable\splash_screen
+drawable\sudoku;drawable\sudoku
+values\colors;values\colors
+values\styles;values\styles

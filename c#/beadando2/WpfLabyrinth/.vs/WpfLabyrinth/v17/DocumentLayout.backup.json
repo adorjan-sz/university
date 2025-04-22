@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\viewmodel\\labyrinthviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\viewmodel\\labyrinthviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\viewmodel\\labyrinthfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\viewmodel\\labyrinthfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\wpflabyrinth\\wpflabyrinth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FFC2859-7E8B-4BB0-BD4C-0DEDEF6AB8D7}|WpfLabyrinth\\WpfLabyrinth.csproj|solutionrelative:wpflabyrinth\\wpflabyrinth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthGameModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE756928-C2BD-41E7-8A85-E5DE79B604C5}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\labyrinth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE756928-C2BD-41E7-8A85-E5DE79B604C5}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE756928-C2BD-41E7-8A85-E5DE79B604C5}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\beadando2\\wpflabyrinth\\labyrinth\\labyrinth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE756928-C2BD-41E7-8A85-E5DE79B604C5}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\labyrinth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabyrinthField.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\ViewModel\\LabyrinthField.cs",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\ViewModel\\LabyrinthField.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\ViewModel\\LabyrinthField.cs",
+              "RelativeToolTip": "WpfLabyrinth\\ViewModel\\LabyrinthField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:37:07.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\App.xaml",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\App.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\App.xaml",
+              "RelativeToolTip": "WpfLabyrinth\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T15:55:10.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\View\\MainWindow.xaml",
+              "RelativeToolTip": "WpfLabyrinth\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T12:59:00.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfLabyrinth\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:58:58.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabyrinthViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\ViewModel\\LabyrinthViewModel.cs",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\ViewModel\\LabyrinthViewModel.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\ViewModel\\LabyrinthViewModel.cs",
+              "RelativeToolTip": "WpfLabyrinth\\ViewModel\\LabyrinthViewModel.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAFwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:06:21.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\App.xaml.cs",
+              "RelativeToolTip": "WpfLabyrinth\\App.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAADUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:55:15.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\ViewModel\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\ViewModel\\DelegateCommand.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\ViewModel\\DelegateCommand.cs",
+              "RelativeToolTip": "WpfLabyrinth\\ViewModel\\DelegateCommand.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:27:02.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "WpfLabyrinth\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:27:04.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfLabyrinth\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:27:07.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WpfLabyrinth.csproj",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\WpfLabyrinth.csproj",
+              "RelativeDocumentMoniker": "WpfLabyrinth\\WpfLabyrinth.csproj",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\WpfLabyrinth\\WpfLabyrinth.csproj",
+              "RelativeToolTip": "WpfLabyrinth\\WpfLabyrinth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T11:50:27.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LabyrinthGameModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthGameModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthGameModel.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthGameModel.cs",
+              "RelativeToolTip": "..\\..\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthGameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:59:43.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Labyrinth.csproj",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\Labyrinth\\Labyrinth.csproj",
+              "RelativeDocumentMoniker": "Labyrinth\\Labyrinth.csproj",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\Labyrinth\\Labyrinth.csproj",
+              "RelativeToolTip": "Labyrinth\\Labyrinth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T11:45:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\Labyrinth\\program.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\program.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\beadando2\\WpfLabyrinth\\Labyrinth\\program.cs",
+              "RelativeToolTip": "Labyrinth\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:38:53.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LabyrinthTable.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthTable.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthTable.cs",
+              "RelativeToolTip": "..\\..\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthTable.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:21:48.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LabyrinthFileDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs",
+              "RelativeToolTip": "..\\..\\eva\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:56:30.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LabyrinthPlayerEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\..\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs",
+              "RelativeToolTip": "..\\..\\eva\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:08:50.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

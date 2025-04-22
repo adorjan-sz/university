@@ -1,0 +1,136 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:ELTE.Sudoku.Avalonia.ViewModels"
+             xmlns:v="clr-namespace:ELTE.Sudoku.Avalonia.Views"
+             mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="600"
+             x:Class="ELTE.Sudoku.Avalonia.Views.MainView"
+             x:DataType="vm:LabyrinthViewModel"
+             d:DataContext="{x:Static v:DesignData.ViewModel}">
+  <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+
+
+	<Grid>
+
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="Auto" />
+		</Grid.RowDefinitions>
+		<Grid.KeyBindings>
+			<KeyBinding Command="{Binding WPressed}" Gesture="Up" />
+			<KeyBinding Command="{Binding SPressed}" Gesture="Down" />
+			<KeyBinding Command="{Binding APressed}" Gesture="Left" />
+			<KeyBinding Command="{Binding DPressed}" Gesture="Right" />
+		</Grid.KeyBindings>
+		<WrapPanel Grid.Row="0" Orientation="Horizontal">
+			<ComboBox SelectedIndex="1">
+				<ComboBoxItem IsSelected="{Binding IsGameEasy}">Könnyű játék</ComboBoxItem>
+				<ComboBoxItem IsSelected="{Binding IsGameMedium}">Közepes játék</ComboBoxItem>
+				<ComboBoxItem IsSelected="{Binding IsGameHard}">Nehéz játék</ComboBoxItem>
+			</ComboBox>
+			<Button Command="{Binding NewGameCommand}">Új játék</Button>
+			<Button Command="{Binding PauseCommand}">Szünet</Button>
+			<Button Command="{Binding ExitCommand}">Kilépés</Button>
+		</WrapPanel>
+
+		<Viewbox Grid.Row="1">
+
+			<ItemsControl Width="900" Height="900" ItemsSource="{Binding Fields}">
+				<!--az mezőket tároló vezérlő-->
+				<ItemsControl.ItemsPanel>
+					<ItemsPanelTemplate>
+						<!--a gombokat egy rácsba fűzzük fel-->
+						<UniformGrid Rows="{Binding GridRows}" Columns="{Binding GridColumns}" />
+					</ItemsPanelTemplate>
+				</ItemsControl.ItemsPanel>
+				<ItemsControl.ItemTemplate>
+					<!--az elemek gombok lesznek-->
+					<DataTemplate>
+						<Button Command="{Binding DoNothing}"   Content=""
+								Width="100" Height="100"
+								Focusable="False" FontSize="36" FontWeight="Bold"
+								HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+								BorderThickness="1" BorderBrush="Black"
+								Classes.class1="{Binding !IsVisible }"
+								Classes.class2="{Binding IsWall }"
+								Classes.class3="{Binding IsPlayer }"
+								Classes.class4="{Binding !IsWall }">
+
+
+							<Button.Styles>
+
+								<Style Selector="Button.class2">
+									<Setter Property="Background" Value="Red" />
+								</Style>
+
+								<Style Selector="Button.class4">
+									<Setter Property="Background" Value="Green" />
+								</Style>
+								<Style Selector="Button.class3">
+									<Setter Property="Background" Value="Blue" />
+								</Style>
+								<Style Selector="Button.class1">
+									<Setter Property="Background" Value="White" />
+								</Style>
+							</Button.Styles>
+
+						</Button>
+					</DataTemplate>
+				</ItemsControl.ItemTemplate>
+			</ItemsControl>
+		</Viewbox>
+		
+		<Border Grid.Row="2" BorderBrush="Black" BorderThickness="0 1 0 0">
+			<StackPanel  Orientation="Horizontal" >
+
+				<TextBlock Text="Játékidő: " Margin="20" />
+				<TextBlock Text="{Binding GameTime}" Margin="20" />
+			</StackPanel>
+		</Border>
+		<Border Grid.Row="3" BorderBrush="Black" BorderThickness="0 1 0 0" Margin="20">
+			<ItemsControl Width="150" Height="150">
+				<ItemsControl.ItemsPanel>
+					<ItemsPanelTemplate>
+						<!--a gombokat egy rácsba fűzzük fel-->
+						<UniformGrid Rows="2" Columns="2" />
+					</ItemsPanelTemplate>
+				</ItemsControl.ItemsPanel>
+				<Button Command="{Binding WPressed}"   Content="Up"
+								Width="50" Height="50"
+						
+								Focusable="False" FontSize="10" FontWeight="Bold"
+								HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+								BorderThickness="1" BorderBrush="Black">
+					
+				</Button>
+				<Button Command="{Binding SPressed}"   Content="Down"
+								Width="50" Height="50"
+						
+								Focusable="False" FontSize="10" FontWeight="Bold"
+								HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+								BorderThickness="1" BorderBrush="Black">
+
+				</Button>
+				<Button Command="{Binding APressed}"   Content="Left"
+								Width="50" Height="50"
+						
+								Focusable="False" FontSize="10" FontWeight="Bold"
+								HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+								BorderThickness="1" BorderBrush="Black">
+
+				</Button>
+				<Button Command="{Binding DPressed}"   Content="Right"
+								Width="50" Height="50"
+						
+								Focusable="False" FontSize="10" FontWeight="Bold"
+								HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+								BorderThickness="1" BorderBrush="Black">
+
+				</Button>
+			</ItemsControl>
+		</Border>
+	</Grid>
+</UserControl>

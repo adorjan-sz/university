@@ -1,0 +1,55 @@
+body{
+    
+    background-color: rgb(141, 140, 140);
+    color:black;
+    font-family: sans-serif,Arial;
+    font-size: 2em;
+
+}
+#menu li {
+    border: 3px solid black; 
+}
+main{
+    background-color: rgb(234, 231, 231);
+}
+header{
+    background-color:rgb(234, 231, 231);
+}
+footer{
+    background-color:rgb(234, 231, 231);
+}
+.korszakok {
+    columns: 2;
+    border-bottom: 2px dotted black;
+    margin: 10px;
+}
+a:link {
+    color: blue;
+}
+a:visited {
+    color: purple;
+}
+#oldalkep{
+    display:none;
+}
+#text-area{
+    border: 3px solid black; 
+}
+#text-input{
+    border: 3px solid black; 
+}
+nav#gyengenlato #textSizeButton{
+    opacity: 0.9;
+    font-size: 1em;
+}
+@media screen and (max-width:600px){
+    .korszakok{
+        columns: 1;
+        text-align: justify;
+    }
+    
+nav#gyengenlato #textSizeButton{
+    width:210px;
+    height: 50px;
+}
+}

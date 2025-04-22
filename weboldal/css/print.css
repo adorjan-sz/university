@@ -1,0 +1,79 @@
+@import url("alap.css");
+
+@page {
+    size: A4;
+    margin: 1cm;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color:black;
+    background: none;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    font-size: 1em; 
+    text-align: left;
+}
+h1 {
+    font-size: 1.2em; 
+}   
+h2 {
+    font-size: 1.1em; 
+}
+img {
+    width: 70%;
+    height: auto; 
+}
+form #submit {
+    display: none;
+}
+article nav a {
+    display: none;
+}
+main nav a {
+    display: none;
+}
+.korszakok {
+    columns: 2;
+    border-bottom: 2px dotted black;
+    margin: 10px;
+}
+#logo {
+    display: none;
+}
+video {
+    display: none;
+}
+#menu {
+    display: none;
+}
+#menu li {
+    display: none;
+}
+footer a {
+    display: none;
+}
+
+#oldalkep {
+    display: none;
+}
+a:link, a:visited, a:hover, a:active {
+    color: black;
+}
+main{
+    border: 0px;
+}
+header{
+    border: 0px;
+}
+footer{
+    border: 0px;
+}
+nav#gyengenlato #textSizeButton{
+    display: none;
+}
+ 

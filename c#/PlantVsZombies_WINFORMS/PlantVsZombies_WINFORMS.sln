@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.34302.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantVsZombies_WINFORMS", "PlantVsZombies_WINFORMS\PlantVsZombies_WINFORMS.csproj", "{FA928859-2092-4862-AE3A-52B4D2413124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantVsZombies", "PlantVsZombies\PlantVsZombies.csproj", "{95CF150F-B8B5-4FFD-898F-AFE27228DED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA928859-2092-4862-AE3A-52B4D2413124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA928859-2092-4862-AE3A-52B4D2413124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA928859-2092-4862-AE3A-52B4D2413124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA928859-2092-4862-AE3A-52B4D2413124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CF150F-B8B5-4FFD-898F-AFE27228DED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CF150F-B8B5-4FFD-898F-AFE27228DED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CF150F-B8B5-4FFD-898F-AFE27228DED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CF150F-B8B5-4FFD-898F-AFE27228DED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CBDDC7D-7D1F-48E6-B1E1-804C4B4ED9C9}
+	EndGlobalSection
+EndGlobal

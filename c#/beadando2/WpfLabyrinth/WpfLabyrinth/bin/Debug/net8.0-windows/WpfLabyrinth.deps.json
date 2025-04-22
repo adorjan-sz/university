@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfLabyrinth/1.0.0": {
+        "dependencies": {
+          "Labyrinth": "1.0.0"
+        },
+        "runtime": {
+          "WpfLabyrinth.dll": {}
+        }
+      },
+      "Labyrinth/1.0.0": {
+        "runtime": {
+          "Labyrinth.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfLabyrinth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labyrinth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

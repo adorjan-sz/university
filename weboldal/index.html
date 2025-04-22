@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinós Főoldal</title>
+    <style>
+        @import url(css/alap.css);
+    </style>
+    <link rel="stylesheet" type="text/css" href="css/alternate.css" id="alternateStylesheet" disabled>
+    <link rel="stylesheet"  href="css/alap.css" id="defaultStylesheet" disabled>
+    <link rel="stylesheet" href="css/print.css" media="print">
+    <script src="script.js"></script>
+</head>
+<body>
+    <nav class="kipozicional">
+        <a href="#tartalom">Ugrás a tartalomra</a>
+    </nav>
+    <header>
+        <nav id="gyengenlato">
+            <button onclick="toggleStylesheet()" id="textSizeButton">NagyBetű</button>
+        </nav>
+        <figure>
+            <img src="kepek/logo.png" alt="Az oldal logója" id="logo">
+        </figure>
+        <nav>
+            <ul id="menu">
+                <li id="live"><a href="">Főoldal</a></li>
+                <li class="menu_li"><a href="Triasz.html">Triász</a></li>
+                <li class="menu_li"><a href="Jura.html">Júra</a></li>
+                <li class="menu_li"><a href="Kreta.html">Kréta</a></li>
+            </ul>
+        </nav>
+        <div id="oldalkep"></div>
+    </header>
+    <main id="tartalom">
+        
+
+        <article>
+        <section id="video">
+            <video width="320" height="240" controls poster="video/thumbnail.jpg">
+                <source src="video/video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <aside>
+                <a href="atirat.html" id="atirat"><p>átirat a videóhoz</p></a>
+            </aside>
+            <!-- a video Khan Academy röl van. "Khan Academy offers most of its content under the CC-BY-NC-SA license"-->
+        </section>
+        <section>
+        <h1> Dinoszauruszok</h1>
+        <p>
+        Természetfeletti óriások, akik az idő poraival együtt elszálltak, de mégis életük valóságos rejtélyeként kísértik az emberi képzeletet - ők a dinoszauruszok. <strong>Az ősi föld hatalmas lényei, melyek milliók évvel ezelőtt uralták a Földet</strong>, és lenyűgöző, gyakran megdöbbentő lenyomataikat hagyták hátra az idők homályában.
+        </p><p>Képzeld el, hogy visszarepülsz az időben, az ősi szárazföldre, ahol az égboltot nem repülőgépek, hanem hatalmas, szárnyaló pteroszauruszok szabdalják, míg a földön az óriási T-rexek és triceratopszok uralkodnak. Ezek a lények, melyek olyan hatalmas méretekkel és lenyűgöző megjelenéssel rendelkeztek, nem csak a tudományos érdeklődést ébresztik fel, hanem az emberi fantáziát is megszállják.
+        </p> <p> dinoszauruszok sokszínűsége páratlan: a kicsi, fürge velociraptortól a hatalmas, lomha diplodocusig terjed. Szárazföldi, légi és vízi dinoszauruszok egyaránt léteztek, mindegyik adaptálva saját élőhelyéhez és életmódjához. Megfigyelni ezeket a csodálatos lényeket, ahogyan vadásztak, táplálkoztak és kommunikáltak egymással, lenyűgöző élmény volt volna azoknak, akik éltek az ősidőkben.
+        </p><p>A dinoszauruszok kihalása mindig is rejtély marad. Talán egy hatalmas üstökös vagy aszteroida ütközése pusztította el őket, vagy talán lassú, fokozatos változások vezettek végül a kihalásukhoz. Bármi is volt az ok, az ősi dinoszauruszok emléke tovább él bennünk, a modern világban, a tudomány, a film és a művészet által állandóan inspirálva és újraélesztve.
+        </p>
+        </section>
+    </article>
+    <nav><a href="#menu">Ugrás a menühöz</a></nav>
+    </main>
+    <footer>
+         <a href="https://en.wikipedia.org/wiki/Dinosaur">Wikipedia - Dinoszauruszok</a>
+    </footer>
+</body>
+</html>

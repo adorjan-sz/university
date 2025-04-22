@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1FFB51-A126-4708-A3A7-8950E44A07A6}|LabyrinthView\\LabyrinthView.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinthview\\labyrinthwinforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1FFB51-A126-4708-A3A7-8950E44A07A6}|LabyrinthView\\LabyrinthView.csproj|solutionrelative:labyrinthview\\labyrinthwinforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1FFB51-A126-4708-A3A7-8950E44A07A6}|LabyrinthView\\LabyrinthView.csproj|C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\labyrinthview\\labyrinthwinforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B1FFB51-A126-4708-A3A7-8950E44A07A6}|LabyrinthView\\LabyrinthView.csproj|solutionrelative:labyrinthview\\labyrinthwinforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\model\\labyrintheventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\model\\labyrintheventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\labyrinth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\labyrinth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\persistence\\labyrinthtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\persistence\\labyrinthtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FBC22F-627B-4B09-A2D7-30DDC8AC6420}|TestLabyrinth\\Labyrinth.Test.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\testlabyrinth\\labyrinthmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FBC22F-627B-4B09-A2D7-30DDC8AC6420}|TestLabyrinth\\Labyrinth.Test.csproj|solutionrelative:testlabyrinth\\labyrinthmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\model\\labyrinthgamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\model\\labyrinthgamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\model\\labyrinthplayereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\model\\labyrinthplayereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\persistence\\labyrinthfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\persistence\\labyrinthfiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\persistence\\ilabyrinthdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\persistence\\ilabyrinthdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\persistence\\difficulty\\easy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\persistence\\difficulty\\easy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\persistence\\difficulty\\hard.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\persistence\\difficulty\\hard.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\persistence\\difficulty\\medium.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\persistence\\difficulty\\medium.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\persistence\\labyrinthdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\persistence\\labyrinthdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\doesntmatter\\beadando1\\labyrinth\\labyrinth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2C05D7-EEB9-442F-982C-9C7A664DCBC8}|Labyrinth\\Labyrinth.csproj|solutionrelative:labyrinth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Labyrinth.csproj",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Labyrinth.csproj",
+              "RelativeDocumentMoniker": "Labyrinth\\Labyrinth.csproj",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Labyrinth.csproj",
+              "RelativeToolTip": "Labyrinth\\Labyrinth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T11:18:55.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Model\\Player.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Model\\Player.cs",
+              "RelativeToolTip": "Labyrinth\\Model\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:53:43.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabyrinthWinForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\LabyrinthView\\LabyrinthWinForms.cs",
+              "RelativeDocumentMoniker": "LabyrinthView\\LabyrinthWinForms.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\LabyrinthView\\LabyrinthWinForms.cs [Design]",
+              "RelativeToolTip": "LabyrinthView\\LabyrinthWinForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:50:26.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabyrinthWinForms.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\LabyrinthView\\LabyrinthWinForms.cs",
+              "RelativeDocumentMoniker": "LabyrinthView\\LabyrinthWinForms.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\LabyrinthView\\LabyrinthWinForms.cs",
+              "RelativeToolTip": "LabyrinthView\\LabyrinthWinForms.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:26:46.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LabyrinthModelTest.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\TestLabyrinth\\LabyrinthModelTest.cs",
+              "RelativeDocumentMoniker": "TestLabyrinth\\LabyrinthModelTest.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\TestLabyrinth\\LabyrinthModelTest.cs",
+              "RelativeToolTip": "TestLabyrinth\\LabyrinthModelTest.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:56:49.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabyrinthEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthEventArgs.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Model\\LabyrinthEventArgs.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthEventArgs.cs",
+              "RelativeToolTip": "Labyrinth\\Model\\LabyrinthEventArgs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:35:59.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LabyrinthPlayerEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs",
+              "RelativeToolTip": "Labyrinth\\Model\\LabyrinthPlayerEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:47:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LabyrinthTable.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthTable.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Persistence\\LabyrinthTable.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthTable.cs",
+              "RelativeToolTip": "Labyrinth\\Persistence\\LabyrinthTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:48:33.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabyrinthGameModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthGameModel.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Model\\LabyrinthGameModel.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Model\\LabyrinthGameModel.cs",
+              "RelativeToolTip": "Labyrinth\\Model\\LabyrinthGameModel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:45:51.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LabyrinthFileDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs",
+              "RelativeToolTip": "Labyrinth\\Persistence\\LabyrinthFileDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:57:32.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILabyrinthDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\ILabyrinthDataAccess.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Persistence\\ILabyrinthDataAccess.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\ILabyrinthDataAccess.cs",
+              "RelativeToolTip": "Labyrinth\\Persistence\\ILabyrinthDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:14:52.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Easy.txt",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\Difficulty\\Easy.txt",
+              "RelativeDocumentMoniker": "Labyrinth\\Persistence\\Difficulty\\Easy.txt",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\Difficulty\\Easy.txt",
+              "RelativeToolTip": "Labyrinth\\Persistence\\Difficulty\\Easy.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-22T15:30:45.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hard.txt",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\Difficulty\\Hard.txt",
+              "RelativeDocumentMoniker": "Labyrinth\\Persistence\\Difficulty\\Hard.txt",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\Difficulty\\Hard.txt",
+              "RelativeToolTip": "Labyrinth\\Persistence\\Difficulty\\Hard.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-22T15:30:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Medium.txt",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\Difficulty\\Medium.txt",
+              "RelativeDocumentMoniker": "Labyrinth\\Persistence\\Difficulty\\Medium.txt",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\Difficulty\\Medium.txt",
+              "RelativeToolTip": "Labyrinth\\Persistence\\Difficulty\\Medium.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-20T10:32:40.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LabyrinthDataException.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthDataException.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\Persistence\\LabyrinthDataException.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\Persistence\\LabyrinthDataException.cs",
+              "RelativeToolTip": "Labyrinth\\Persistence\\LabyrinthDataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:07:40.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\program.cs",
+              "RelativeDocumentMoniker": "Labyrinth\\program.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\doesntMatter\\beadando1\\Labyrinth\\Labyrinth\\program.cs",
+              "RelativeToolTip": "Labyrinth\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:12:40.289Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

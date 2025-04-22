@@ -1,0 +1,255 @@
+main {
+    margin: auto;
+    width: 70%;
+    background-color: rgb(158, 153, 73); 
+    padding: 10px;
+    border-radius: 10px;
+    border : 2px solid black; 
+}
+body{
+    background-color: rgb(153, 143, 0); 
+    font-family: sans-serif,Arial; 
+    font-size: 1.3em; 
+    text-align: left;
+}
+a:link {
+    color: #0c058d;
+}
+a:visited {
+    color: #550d1f;
+}
+
+.kipozicional a{
+    position: absolute;
+    left: -9999px;
+}
+.kipozicional a:focus{
+    position:static;
+    background-color: #ffff;
+}
+h1 {
+    font-size: 1.5em; 
+}
+h2 {
+    font-size: 1.3em; 
+}
+#DinoGyujtemeny{
+    font-size: 1em; 
+}
+.korszakok {
+    columns: 3;
+    border-bottom: 2px dotted black;
+    margin: 10px;
+}
+#menu li {
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    list-style-type: none;
+    border: 1px solid black; 
+    border-radius: 10px;
+}
+
+.menu_li{
+    background-color: white; 
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+#live{
+    background-color: black; 
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+#menu a:link, #menu a:visited, #menu a:hover, #menu a:active {
+    color: inherit;
+    text-decoration: none;
+}
+footer {
+    background-color: rgb(158, 153, 73);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border : 2px solid black; 
+}
+header{
+    background-color: rgb(181,174,104);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border : 2px solid black; 
+
+}
+#menu {
+    display: flex;
+    justify-content: space-between;
+    border : 0px;
+}
+header nav {
+    text-align: center;
+}
+
+#oldalkep {
+    background-image: url("../kepek/föoldal/oldalképe.jpg");
+    height:126px;
+    background-repeat: no-repeat;
+    
+}
+#video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10%;
+}
+input[type="submit"] {
+    background-color: #1c2d4d; 
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+#text-area {
+    width: 60%;
+    height: 125px;
+    padding: 10px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 1.2em;
+}
+#text-input {
+    width: 28%;
+    padding: 10px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.urlapP {
+    color: #333; 
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+table {
+    border: 2px solid black;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px; 
+    overflow: hidden;
+    padding: 5px;
+}
+
+th {
+    background-color: black; 
+    color: white;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+    
+}
+nav#gyengenlato #textSizeButton{
+    width:210px;
+    height: 50px;
+    border:2px solid #000;
+    border-radius: 10px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    background-color: white;
+    opacity: 0.9;
+    font-size: 1em;
+}
+
+@media screen and (max-width:1200px){
+    main {
+        width: 90%;
+    }
+    .korszakok{
+        columns: 2;
+    }
+    #oldalkep {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #logo {
+        display:block;
+        margin: auto;
+    }
+    img:not(#logo) {
+        width:501px;
+    }
+    #logo {
+        display:block;
+        margin: auto;
+    }
+    
+    #UrlapCim{
+        text-align: center;
+    }
+
+
+
+}
+
+@media screen and (max-width:600px){
+    img, video {
+        display: none;
+    }
+    .korszakok {
+        columns: 1;
+    }
+    #oldalkep {
+        display: none;
+    }
+    #menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        border : 0px;
+        width: 100%;
+    }
+    #menu li {
+        width: 80%;
+        height: 100%;
+        text-align: center;
+        list-style-type: none;
+        border: 1px solid black; 
+        border-radius: 10px; 
+        
+    }
+    main{
+        width: 100%;
+    }
+    .DinoSzoveg {
+        display: none;
+    }
+    
+nav#gyengenlato #textSizeButton{
+    width:210px;
+    height: 25px;
+    
+}
+#atirat{
+    display: none;
+}
+}

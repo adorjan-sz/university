@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinós Űrlap</title>
+    <style>
+        @import url(css/alap.css);
+    </style>
+    <link rel="stylesheet" type="text/css" href="css/alternate.css" id="alternateStylesheet" disabled>
+    <link rel="stylesheet"  href="css/alap.css" id="defaultStylesheet" disabled>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="css/print.css" media="print">
+</head>
+<body>
+    <nav class="kipozicional">
+        <a href="#tartalom">Ugrás a tartalomra</a>
+    </nav>
+    <header>
+        <nav id="gyengenlato">
+            <button onclick="toggleStylesheet()" id="textSizeButton">NagyBetű</button>
+        </nav>
+        <figure>
+            <img src="kepek/logo.png" alt="Az oldal logója" id="logo">
+        </figure>
+        <nav>
+            <ul id="menu">
+                <li class="menu_li"><a href="index.html">Főoldal</a></li>
+                <li class="menu_li"><a href="Triasz.html">Triász</a></li>
+                <li class="menu_li"><a href="Jura.html">Júra</a></li>
+                <li class="menu_li"><a href="Kreta.html">Kréta</a></li>
+            </ul>
+        </nav>
+        <div id="oldalkep"></div>
+    </header>
+<main id="tartalom">
+    <aside>
+        <a href="Triasz.html">Triasz</a>/<a href="Jura.html">Júra</a>/<a href="Kreta.html">Kréta</a>><a href="Table.html">Dinó Gyűjtemény</a>>Dinós Űrlap
+    </aside>
+    <article>
+        <section id="UrlapCim">
+            <h1>Dinókhoz Űrlap</h1>
+        </section>
+        <section id="urlap">
+        <form action="mailto:S4I92X@inf.elte.hu" method="post" enctype="text/plain">
+            <label for="text-input">Dinó neve:</label><br>
+            <input type="text" id="text-input" name="text-input" maxlength="20"><br>
+
+            <label for="text-area">Rövid leirás:</label><br>
+            <textarea id="text-area" name="text-area" maxlength="175"></textarea><br>
+
+            
+            <p class="urlapP">Milyen korban élt?:</p>
+            <label for="radio1">Triász:</label>
+            <input type="radio" id="radio1" name="radio-group"><br>
+            <label for="radio2">Júra:</label>
+            <input type="radio" id="radio2" name="radio-group"><br>
+            <label for="radio3">Kréta:</label>
+            <input type="radio" id="radio3" name="radio-group"><br>
+
+            <p class="urlapP">Milyen típusú dinó?:</p>
+            <label for="checkbox1">Növényevő:</label>
+            <input type="checkbox" id="checkbox1" name="checkbox1"><br>
+            <label for="checkbox2">Húsevő:</label>
+            <input type="checkbox" id="checkbox2" name="checkbox2"><br>
+
+            <input type="submit" value="Submit" id="submit">
+        </form>
+        <aside>
+            <p>Az ide megadott adatok majd a Dinó gyűjteményben lesznek fen.</p>
+        </aside>
+        </section>
+    </article>
+    <nav><a href="#menu">Ugrás a menühöz</a></nav>
+</main>
+<footer>
+    <a href="https://en.wikipedia.org/wiki/Dinosaur">Wikipedia - Dinoszauruszok</a>
+</footer>
+</body>
+</html>

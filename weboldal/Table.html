@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinó gyűjtemény</title>
+    <style>
+        @import url(css/alap.css);
+    </style>
+    <link rel="stylesheet" type="text/css" href="css/alternate.css" id="alternateStylesheet" disabled>
+    <link rel="stylesheet"  href="css/alap.css" id="defaultStylesheet" disabled>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="css/print.css" media="print">
+</head>
+<body>
+    <nav class="kipozicional">
+        <a href="#tartalom">Ugrás a tartalomra</a>
+    </nav>
+    <header>
+        <nav id="gyengenlato">
+            <button onclick="toggleStylesheet()" id="textSizeButton">NagyBetű</button>
+        </nav>
+        <figure>
+            <img src="kepek/logo.png" alt="Az oldal logója" id="logo">
+        </figure>
+        <nav>
+            <ul id="menu">
+                <li class="menu_li"><a href="index.html">Főoldal</a></li>
+                <li class="menu_li"><a href="Triasz.html">Triász</a></li>
+                <li class="menu_li"><a href="Jura.html">Júra</a></li>
+                <li class="menu_li"><a href="Kreta.html">Kréta</a></li>
+            </ul>
+        </nav>
+        <div id="oldalkep"></div>
+    </header>
+    <main id="tartalom">
+        <a href="Triasz.html">Triasz</a>/<a href="Jura.html">Júra</a>/<a href="Kreta.html">Kréta</a>>Dinó Gyűjtemény
+        <table>
+            <caption><h1 id="DinoGyujtemeny">Dinó gyűjtemény</h1>
+            <details>
+                <summary>Táblázatról</summary>
+                <p>A táblázatban a három korszak legjelentősebb dinoszauruszait találod meg, melyek a Triász, a Júra és a Kréta korokban éltek.</p>
+            </details></caption>
+            <thead>
+                <tr>
+                    <th>Triász</th>
+                    <th>Júra</th>
+                    <th>Kréta</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p lang="la">Eoraptor</p>
+                        <p class="DinoSzoveg">Kis termetű, két lábon járó dinoszaurusz, melynek maradványait Dél-Amerikában találták meg.
+                            Húsevő
+                            </p>
+                    </td>
+                    <td><p lang="la">Allosaurus</p>
+                        <p class="DinoSzoveg">Nagyragadozó, kétlábú hüllő, erős állkapcsokkal és hosszú, hegyes fogakkal felszerelve.
+                            húsevő</p></td>
+                    <td><p lang="la">Tyrannosaurus rex</p>
+                        <p class="DinoSzoveg">Az ikonikus T-rex, a Kréta korának rettegett ragadozója, hatalmas méretű és erős állkapcsokkal rendelkezett.
+                            Húsevő</p></td>
+                </tr>
+                <tr>
+                    <td><p lang="la">Plateosaurus</p>
+                        <p class="DinoSzoveg">Közepes méretű, hosszú nyakú növényevő dinoszaurusz, melynek fosszíliáit Európában és Afrikában fedezték fel.
+                            Növényevő</p></td>
+                    <td>
+                        <p lang="la">Stegosaurus</p>
+                        <p class="DinoSzoveg">Nehézkes testfelépítésű, hatalmas lemezeken és tüskéken díszelgő növényevő, hosszú farokkal.
+                            növényevő</p></td>
+                    <td>
+                        <p lang="la">Triceratops</p>
+                        <p class="DinoSzoveg">A Triceratops, a népszerű növényevő dinoszaurusz, hatalmas testének a legjelentősebb része a hármas szarv volt, amelyet a feje tetején és az orrán viselt.
+                            Növényevő</p></td>
+                </tr>
+                <tr>
+                    <td><p lang="la">Herrerasaurus</p>
+                        <p class="DinoSzoveg">               
+                            Közepes méretű, ragadozó dinoszaurusz, melynek fosszíliáit Dél-Amerikában találták meg, és az egyik legősibb ismert dinoszauruszfajhoz tartozik.
+                            Húsevő</p></td>
+                    <td><p lang="la">Brachiosaurus</p>
+                        <p class="DinoSzoveg">Hatalmas, hosszú nyakkal és magasra emelt fejjel rendelkező, gigantikus méretű növényevő dinoszaurusz.
+                        </p></td>
+                    <td><p lang="la">Velociraptor</p>
+                        <p class="DinoSzoveg">A Velociraptor, a Kréta korának vadászója, kicsi, ám gyors és ravasz ragadozó volt, melyek hosszú, csúcsos karmaikkal és éles fogakkal vadásztak zsákmányukra.
+                            Húsevő</p></td>
+                </tr>
+            </tbody>
+        </table>
+        <nav><a href="#menu">Ugrás a menühöz</a></nav>
+    </main>
+    <footer>
+        <a href="urlap.html">Űrlap új dinóhoz</a>
+    </footer>
+
+</body>
+</html>
