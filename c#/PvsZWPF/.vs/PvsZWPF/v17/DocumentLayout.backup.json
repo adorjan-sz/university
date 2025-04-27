@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwpf\\pvszwpf\\viewmodelandstuff\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|solutionrelative:pvszwpf\\viewmodelandstuff\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881AD231-AC0A-46DC-89DD-D49EAE727116}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwpf\\modelandpersistence\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881AD231-AC0A-46DC-89DD-D49EAE727116}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwpf\\pvszwpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|solutionrelative:pvszwpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwpf\\pvszwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|solutionrelative:pvszwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881AD231-AC0A-46DC-89DD-D49EAE727116}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwpf\\modelandpersistence\\persistence\\access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881AD231-AC0A-46DC-89DD-D49EAE727116}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\persistence\\access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwpf\\pvszwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|solutionrelative:pvszwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwpf\\pvszwpf\\viewmodelandstuff\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DFFA8E-308F-430A-A4DD-0043465ADC24}|PvsZWPF\\PvsZWPF.csproj|solutionrelative:pvszwpf\\viewmodelandstuff\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\ModelAndPersistence\\Model\\Game.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Model\\Game.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\ModelAndPersistence\\Model\\Game.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Model\\Game.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:37:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Access.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\ModelAndPersistence\\Persistence\\Access.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Persistence\\Access.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\ModelAndPersistence\\Persistence\\Access.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Persistence\\Access.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:37:25.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PvsZWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\App.xaml.cs",
+              "RelativeToolTip": "PvsZWPF\\App.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:32:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\ViewModelAndStuff\\Field.cs",
+              "RelativeDocumentMoniker": "PvsZWPF\\ViewModelAndStuff\\Field.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\ViewModelAndStuff\\Field.cs",
+              "RelativeToolTip": "PvsZWPF\\ViewModelAndStuff\\Field.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:23:44.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\ViewModelAndStuff\\ViewModel.cs",
+              "RelativeDocumentMoniker": "PvsZWPF\\ViewModelAndStuff\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\ViewModelAndStuff\\ViewModel.cs",
+              "RelativeToolTip": "PvsZWPF\\ViewModelAndStuff\\ViewModel.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:15:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\App.xaml",
+              "RelativeDocumentMoniker": "PvsZWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\App.xaml",
+              "RelativeToolTip": "PvsZWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T20:14:27.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PvsZWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWPF\\PvsZWPF\\MainWindow.xaml",
+              "RelativeToolTip": "PvsZWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T20:13:01.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

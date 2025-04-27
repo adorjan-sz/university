@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\block\\block\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|solutionrelative:block\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\block\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|solutionrelative:block\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\block\\block\\model\\blockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|solutionrelative:block\\model\\blockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\block\\block\\model\\persistence\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|solutionrelative:block\\model\\persistence\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\block\\block\\model\\tableevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|solutionrelative:block\\model\\tableevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\block\\block\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E7BE6F-F2D7-483A-A542-9B7F0376F280}|Block\\Block.csproj|solutionrelative:block\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\Model\\persistence\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "Block\\Model\\persistence\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\Model\\persistence\\IDataAccess.cs",
+              "RelativeToolTip": "Block\\Model\\persistence\\IDataAccess.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:00:19.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\Model\\TableEvent.cs",
+              "RelativeDocumentMoniker": "Block\\Model\\TableEvent.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\Model\\TableEvent.cs",
+              "RelativeToolTip": "Block\\Model\\TableEvent.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:43:01.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\Model\\BlockModel.cs",
+              "RelativeDocumentMoniker": "Block\\Model\\BlockModel.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\Model\\BlockModel.cs",
+              "RelativeToolTip": "Block\\Model\\BlockModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:38:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Block\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\View\\Form1.cs",
+              "RelativeToolTip": "Block\\View\\Form1.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAFkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:58:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\View\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Block\\View\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\View\\Form1.Designer.cs",
+              "RelativeToolTip": "Block\\View\\Form1.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:58:01.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Block\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Block\\Block\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "Block\\View\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:55:56.071Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

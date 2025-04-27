@@ -1,0 +1,82 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:Invasion.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="Invasion.Views.MainView"
+             x:DataType="vm:InvasionViewModel">
+  <Design.DataContext>
+    <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+    <vm:MainViewModel />
+  </Design.DataContext>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="Auto" />
+		</Grid.RowDefinitions>
+
+		<WrapPanel Grid.Row="0" Orientation="Horizontal">
+			
+			<Button Command="{Binding NewGameCommand}">Új játék</Button>
+			<Button Command="{Binding LoadGameCommand}">Játék betöltése</Button>
+			<Button Command="{Binding SaveGameCommand}">Játék mentése</Button>
+			<Button Command="{Binding PauseGameCommand}">Játék szüneteltetése</Button>
+		</WrapPanel>
+
+		<Viewbox Grid.Row="1">
+			<ItemsControl Width="900" Height="900" ItemsSource="{Binding Fields}">
+				<!--az mezőket tároló vezérlő-->
+				<ItemsControl.ItemsPanel>
+					<ItemsPanelTemplate>
+						<!--a gombokat egy rácsba fűzzük fel-->
+						<UniformGrid Rows="{Binding Size}" Columns="10" />
+					</ItemsPanelTemplate>
+				</ItemsControl.ItemsPanel>
+				<ItemsControl.ItemTemplate>
+					<!--az elemek gombok lesznek-->
+					<DataTemplate>
+						<Button Command="{Binding StepCommand}" CommandParameter="{Binding XY}" 
+								Width="100" Height="100"
+								Focusable="False" FontSize="36" FontWeight="Bold"
+								HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+								BorderThickness="1" BorderBrush="Black"
+								Classes="Game"
+								Classes.Enemy ="{Binding IsEnemy}"
+								Classes.Player="{Binding !IsEnemy}"
+								Classes.Field="{Binding IsField}">
+							<Button.Styles>
+								<!-- megadjuk a feltételes színosztályok stílusát -->
+								
+								
+								<Style Selector="Button.Player">
+									<Setter	Property="Background" Value="Green" />
+								</Style>
+								<Style Selector="Button.Field">
+									<Setter	Property="Background" Value="White" />
+								</Style>
+								<Style Selector="Button.Enemy">
+									<Setter	Property="Background" Value="Red" />
+								</Style>
+							</Button.Styles>
+						</Button>
+					</DataTemplate>
+				</ItemsControl.ItemTemplate>
+			</ItemsControl>
+		</Viewbox>
+
+		<Border Grid.Row="2" BorderBrush="Black" BorderThickness="0 1 0 0">
+			<StackPanel  Orientation="Horizontal">
+				<!-- státuszsor a lépésszámhoz és az időhöz -->
+				<TextBlock Text="Lépésszám: " Margin="10 2 2 2" />
+				
+				<TextBlock Text=" | " Margin="2" />
+				<TextBlock Text="Játékidő: " Margin="2" />
+				<TextBlock Text="{Binding GameTime}" Margin="2" />
+				<TextBlock Text="{Binding HealthCount}" Margin="2" />
+			</StackPanel>
+		</Border>
+	</Grid>
+</UserControl>

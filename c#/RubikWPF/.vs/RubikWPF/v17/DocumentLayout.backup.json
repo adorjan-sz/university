@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\rubikwpf\\rubikwpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|solutionrelative:rubikwpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\rubikwpf\\rubikwpf\\viewmodelandstuff\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|solutionrelative:rubikwpf\\viewmodelandstuff\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\rubikwpf\\rubikwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|solutionrelative:rubikwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\rubikwpf\\rubikwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|solutionrelative:rubikwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\rubikwpf\\rubikwpf\\viewmodelandstuff\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|solutionrelative:rubikwpf\\viewmodelandstuff\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327D339C-8507-4CBD-9967-C817B8159680}|Game\\Game.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\rubikwpf\\game\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327D339C-8507-4CBD-9967-C817B8159680}|Game\\Game.csproj|solutionrelative:game\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\rubikwpf\\rubikwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C67BE4-A169-4B1E-B9D5-928C5EE03CB0}|RubikWPF\\RubikWPF.csproj|solutionrelative:rubikwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RubikWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\App.xaml.cs",
+              "RelativeToolTip": "RubikWPF\\App.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:51:48.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\App.xaml",
+              "RelativeDocumentMoniker": "RubikWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\App.xaml",
+              "RelativeToolTip": "RubikWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T20:51:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\ViewModelAndStuff\\Field.cs",
+              "RelativeDocumentMoniker": "RubikWPF\\ViewModelAndStuff\\Field.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\ViewModelAndStuff\\Field.cs",
+              "RelativeToolTip": "RubikWPF\\ViewModelAndStuff\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:46:50.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\Game\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "Game\\Model\\GameModel.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\Game\\Model\\GameModel.cs",
+              "RelativeToolTip": "Game\\Model\\GameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:39:09.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\ViewModelAndStuff\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "RubikWPF\\ViewModelAndStuff\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\ViewModelAndStuff\\MainViewModel.cs",
+              "RelativeToolTip": "RubikWPF\\ViewModelAndStuff\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:30:07.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RubikWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\MainWindow.xaml",
+              "RelativeToolTip": "RubikWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T20:27:03.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RubikWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\RubikWPF\\RubikWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RubikWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:26:58.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

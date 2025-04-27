@@ -1,0 +1,23 @@
+[gd_scene load_steps=6 format=3 uid="uid://dfw6l5dasid0i"]
+
+[ext_resource type="PackedScene" uid="uid://d0frxisjybgmj" path="res://Scenes/Game/Entities/EntityManager.tscn" id="1_a8n1r"]
+[ext_resource type="Script" uid="uid://ctkb0xpvjca3k" path="res://Scripts/Game/MainModel.cs" id="1_qlpsb"]
+[ext_resource type="Script" uid="uid://dpg8s4koljkhg" path="res://Scripts/Game/CameraController.cs" id="2_mpjvv"]
+[ext_resource type="PackedScene" uid="uid://cem74m5oyprm5" path="res://Scenes/Game/Entities/Animals/Wolf.tscn" id="3_g366t"]
+[ext_resource type="PackedScene" uid="uid://cj0j7anysm530" path="res://Scenes/UI/Overlays/GameOverlay.tscn" id="3_ixdbq"]
+
+[node name="MainModel" type="Node2D" node_paths=PackedStringArray("entityManager")]
+position = Vector2(0, -2)
+script = ExtResource("1_qlpsb")
+entityManager = NodePath("EntityManager")
+
+[node name="EntityManager" parent="." instance=ExtResource("1_a8n1r")]
+WolfScene = ExtResource("3_g366t")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+process_mode = 3
+position = Vector2(576, 324)
+script = ExtResource("2_mpjvv")
+
+[node name="GameOverlay" parent="." instance=ExtResource("3_ixdbq")]
+process_mode = 3

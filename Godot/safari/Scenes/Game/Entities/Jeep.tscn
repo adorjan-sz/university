@@ -1,0 +1,106 @@
+[gd_scene load_steps=9 format=3 uid="uid://jxpe67uws1vl"]
+
+[ext_resource type="Script" uid="uid://bdl1fl0ecis2j" path="res://Scripts/Game/Entities/Jeep/Jeep.cs" id="1_3arnf"]
+[ext_resource type="Texture2D" uid="uid://cuad8dxf2ykqt" path="res://Assets/Entity/Jeep/Green/Green_JEEP_CLEAN_All_000-sheet.png" id="5_86swc"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_18ipr"]
+atlas = ExtResource("5_86swc")
+region = Rect2(600, 200, 100, 100)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5au4b"]
+atlas = ExtResource("5_86swc")
+region = Rect2(0, 400, 100, 100)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1012w"]
+atlas = ExtResource("5_86swc")
+region = Rect2(400, 0, 100, 100)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_fbtyq"]
+atlas = ExtResource("5_86swc")
+region = Rect2(200, 600, 100, 100)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_4ib35"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_18ipr")
+}],
+"loop": true,
+"name": &"Down",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5au4b")
+}],
+"loop": true,
+"name": &"Left",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1012w")
+}],
+"loop": true,
+"name": &"Right",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_fbtyq")
+}],
+"loop": false,
+"name": &"Up",
+"speed": 1.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_5au4b"]
+radius = 300.0
+
+[node name="Jeep" type="Node" node_paths=PackedStringArray("Control", "Sprite", "Label", "VissionArea")]
+script = ExtResource("1_3arnf")
+Control = NodePath("Control")
+Sprite = NodePath("Control/AnimatedSprite2D")
+Label = NodePath("Control/Label")
+VissionArea = NodePath("Control/VisionArea")
+metadata/_edit_vertical_guides_ = [-66.0]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Control"]
+z_index = 10
+y_sort_enabled = true
+position = Vector2(-7.45059e-09, -3)
+rotation = -0.0174533
+scale = Vector2(0.3, 0.3)
+skew = 0.174533
+sprite_frames = SubResource("SpriteFrames_4ib35")
+animation = &"Left"
+
+[node name="Label" type="Label" parent="Control"]
+z_index = 10
+y_sort_enabled = true
+layout_mode = 0
+offset_left = -10.0
+offset_top = -22.0
+offset_right = 30.0
+offset_bottom = 1.0
+scale = Vector2(0.5, 0.5)
+text = "0/4"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="VisionArea" type="Area2D" parent="Control"]
+position = Vector2(0, -4)
+monitoring = false
+monitorable = false
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Control/VisionArea"]
+shape = SubResource("CircleShape2D_5au4b")
+debug_color = Color(0.786953, 0.103687, 1, 0.42)
+
+[connection signal="body_entered" from="Control/VisionArea" to="." method="OnBodyEntered"]

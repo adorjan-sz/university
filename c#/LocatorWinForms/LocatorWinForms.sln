@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocatorWinForms", "LocatorWinForms\LocatorWinForms.csproj", "{F3368E38-D0CC-420D-93E2-E2A514FDDACB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelAndPersistence", "ModelAndPersistence\ModelAndPersistence.csproj", "{F3EF8847-ACE7-43F3-B71B-36FA7D5A1B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3368E38-D0CC-420D-93E2-E2A514FDDACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3368E38-D0CC-420D-93E2-E2A514FDDACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3368E38-D0CC-420D-93E2-E2A514FDDACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3368E38-D0CC-420D-93E2-E2A514FDDACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3EF8847-ACE7-43F3-B71B-36FA7D5A1B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EF8847-ACE7-43F3-B71B-36FA7D5A1B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EF8847-ACE7-43F3-B71B-36FA7D5A1B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EF8847-ACE7-43F3-B71B-36FA7D5A1B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5371A399-77EF-4B3C-AFB2-7A5E7A7229CC}
+	EndGlobalSection
+EndGlobal

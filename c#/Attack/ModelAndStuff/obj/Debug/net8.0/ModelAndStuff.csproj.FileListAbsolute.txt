@@ -1,0 +1,14 @@
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\bin\Debug\net8.0\ModelAndStuff.exe
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\bin\Debug\net8.0\ModelAndStuff.deps.json
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\bin\Debug\net8.0\ModelAndStuff.runtimeconfig.json
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\bin\Debug\net8.0\ModelAndStuff.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\bin\Debug\net8.0\ModelAndStuff.pdb
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\ModelAndStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\ModelAndStuff.AssemblyInfoInputs.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\ModelAndStuff.AssemblyInfo.cs
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\ModelAndStuff.csproj.CoreCompileInputs.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\ModelAndStuff.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\refint\ModelAndStuff.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\ModelAndStuff.pdb
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\ModelAndStuff.genruntimeconfig.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Attack\ModelAndStuff\obj\Debug\net8.0\ref\ModelAndStuff.dll

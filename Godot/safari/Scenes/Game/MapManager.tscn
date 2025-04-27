@@ -1,0 +1,57 @@
+[gd_scene load_steps=4 format=3 uid="uid://kplhmrecwlpy"]
+
+[ext_resource type="Script" uid="uid://4jmxg8aqrjg6" path="res://Scripts/Game/MapManager.cs" id="1_bc7cm"]
+[ext_resource type="TileSet" uid="uid://c4dyyq7506ers" path="res://Assets/Tiles/tiles.tres" id="2_bc7cm"]
+[ext_resource type="Script" uid="uid://hnkexynooaty" path="res://Scripts/Game/LightManager.cs" id="3_w4o2r"]
+
+[node name="MapManager" type="Node2D" node_paths=PackedStringArray("Layer0", "Layer1", "Light", "PreviewLayer", "EntranceText", "ExitText")]
+script = ExtResource("1_bc7cm")
+Layer0 = NodePath("Layer0")
+Layer1 = NodePath("Layer1")
+Light = NodePath("MainLight")
+PreviewLayer = NodePath("PreviewLayer")
+EntranceText = NodePath("EntranceText")
+ExitText = NodePath("ExitText")
+
+[node name="Layer0" type="TileMapLayer" parent="."]
+y_sort_enabled = true
+tile_set = ExtResource("2_bc7cm")
+y_sort_origin = 1
+collision_visibility_mode = 1
+navigation_visibility_mode = 1
+
+[node name="Layer1" type="TileMapLayer" parent="."]
+z_index = 1
+tile_set = ExtResource("2_bc7cm")
+
+[node name="PreviewLayer" type="TileMapLayer" parent="."]
+y_sort_enabled = true
+tile_set = ExtResource("2_bc7cm")
+y_sort_origin = 1
+collision_enabled = false
+navigation_enabled = false
+
+[node name="MainLight" type="DirectionalLight2D" parent="."]
+blend_mode = 2
+script = ExtResource("3_w4o2r")
+
+[node name="EntranceText" type="Label" parent="."]
+offset_right = 70.0
+offset_bottom = 23.0
+rotation = -0.471239
+pivot_offset = Vector2(35, 23)
+text = "Entrance"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ExitText" type="Label" parent="."]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -20.0
+offset_right = 20.0
+offset_bottom = 23.0
+grow_horizontal = 2
+rotation = -0.471239
+pivot_offset = Vector2(20, 0)
+text = "Exit"

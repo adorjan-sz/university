@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Calculator_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EC7C74-34B4-418E-BF74-D62FF1AE9150}|Calculator\\Calculator.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\calculator_06\\calculator\\view\\calculatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1EC7C74-34B4-418E-BF74-D62FF1AE9150}|Calculator\\Calculator.csproj|solutionrelative:calculator\\view\\calculatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Calculator_06\\Calculator\\View\\CalculatorWindow.xaml",
+              "RelativeDocumentMoniker": "Calculator\\View\\CalculatorWindow.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\Calculator_06\\Calculator\\View\\CalculatorWindow.xaml",
+              "RelativeToolTip": "Calculator\\View\\CalculatorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T14:06:59.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

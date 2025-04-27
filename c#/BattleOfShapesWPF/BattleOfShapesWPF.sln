@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleOfShapesWPF", "BattleOfShapesWPF\BattleOfShapesWPF.csproj", "{53ADF962-0C2F-4832-8310-276C0CB26608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelAndPersistence", "ModelAndPersistence\ModelAndPersistence.csproj", "{552B597E-D58F-43F4-B757-23FC41E458C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53ADF962-0C2F-4832-8310-276C0CB26608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ADF962-0C2F-4832-8310-276C0CB26608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ADF962-0C2F-4832-8310-276C0CB26608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ADF962-0C2F-4832-8310-276C0CB26608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552B597E-D58F-43F4-B757-23FC41E458C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552B597E-D58F-43F4-B757-23FC41E458C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552B597E-D58F-43F4-B757-23FC41E458C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552B597E-D58F-43F4-B757-23FC41E458C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80398C02-74DE-4D7E-81F6-E5DAFE20205E}
+	EndGlobalSection
+EndGlobal

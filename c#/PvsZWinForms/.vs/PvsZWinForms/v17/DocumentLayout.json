@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469DC91F-4237-468F-AA3A-5F93CFCD51C4}|PvsZWinForms\\PvsZWinForms.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwinforms\\pvszwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469DC91F-4237-468F-AA3A-5F93CFCD51C4}|PvsZWinForms\\PvsZWinForms.csproj|solutionrelative:pvszwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE6B06E-092A-425C-BB28-075CEB150393}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwinforms\\modelandpersistence\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE6B06E-092A-425C-BB28-075CEB150393}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469DC91F-4237-468F-AA3A-5F93CFCD51C4}|PvsZWinForms\\PvsZWinForms.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwinforms\\pvszwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{469DC91F-4237-468F-AA3A-5F93CFCD51C4}|PvsZWinForms\\PvsZWinForms.csproj|solutionrelative:pvszwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE6B06E-092A-425C-BB28-075CEB150393}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwinforms\\modelandpersistence\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE6B06E-092A-425C-BB28-075CEB150393}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE6B06E-092A-425C-BB28-075CEB150393}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\pvszwinforms\\modelandpersistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE6B06E-092A-425C-BB28-075CEB150393}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\ModelAndPersistence\\Model\\Game.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Model\\Game.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\ModelAndPersistence\\Model\\Game.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Model\\Game.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:07:46.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\PvsZWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "PvsZWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\PvsZWinForms\\Form1.cs",
+              "RelativeToolTip": "PvsZWinForms\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwB0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:10:23.157Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\ModelAndPersistence\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Persistence\\Table.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\ModelAndPersistence\\Persistence\\Table.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Persistence\\Table.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:01:10.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\ModelAndPersistence\\Program.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Program.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\ModelAndPersistence\\Program.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:00:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\PvsZWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "PvsZWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\PvsZWinForms\\PvsZWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "PvsZWinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:49:45.203Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

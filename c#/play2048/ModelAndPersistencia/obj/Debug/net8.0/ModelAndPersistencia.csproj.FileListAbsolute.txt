@@ -1,0 +1,14 @@
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\bin\Debug\net8.0\ModelAndPersistencia.exe
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\bin\Debug\net8.0\ModelAndPersistencia.deps.json
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\bin\Debug\net8.0\ModelAndPersistencia.runtimeconfig.json
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\bin\Debug\net8.0\ModelAndPersistencia.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\bin\Debug\net8.0\ModelAndPersistencia.pdb
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\ModelAndPersistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\ModelAndPersistencia.AssemblyInfoInputs.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\ModelAndPersistencia.AssemblyInfo.cs
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\ModelAndPersistencia.csproj.CoreCompileInputs.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\ModelAndPersistencia.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\refint\ModelAndPersistencia.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\ModelAndPersistencia.pdb
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\ModelAndPersistencia.genruntimeconfig.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\play2048\ModelAndPersistencia\obj\Debug\net8.0\ref\ModelAndPersistencia.dll

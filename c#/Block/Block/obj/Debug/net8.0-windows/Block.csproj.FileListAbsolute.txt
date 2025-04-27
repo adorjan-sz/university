@@ -1,0 +1,16 @@
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\bin\Debug\net8.0-windows\Block.exe
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\bin\Debug\net8.0-windows\Block.deps.json
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\bin\Debug\net8.0-windows\Block.runtimeconfig.json
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\bin\Debug\net8.0-windows\Block.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\bin\Debug\net8.0-windows\Block.pdb
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.Form1.resources
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.csproj.GenerateResource.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.AssemblyInfoInputs.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.AssemblyInfo.cs
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.csproj.CoreCompileInputs.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\refint\Block.dll
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.pdb
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\Block.genruntimeconfig.cache
+C:\Users\Adorján\Documents\2.év\eva\zhgyak\Block\Block\obj\Debug\net8.0-windows\ref\Block.dll

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\battleofshapeswpf\\viewmodelandstuff\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|solutionrelative:battleofshapeswpf\\viewmodelandstuff\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\modelandpersistence\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\battleofshapeswpf\\viewmodelandstuff\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|solutionrelative:battleofshapeswpf\\viewmodelandstuff\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\battleofshapeswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|solutionrelative:battleofshapeswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\battleofshapeswpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|solutionrelative:battleofshapeswpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\battleofshapeswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|solutionrelative:battleofshapeswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\modelandpersistence\\model\\eargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\model\\eargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\modelandpersistence\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\persistence\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\modelandpersistence\\persistence\\access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\persistence\\access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\modelandpersistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552B597E-D58F-43F4-B757-23FC41E458C1}|ModelAndPersistence\\ModelAndPersistence.csproj|solutionrelative:modelandpersistence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|c:\\users\\adorj\u00E1n\\documents\\2.\u00E9v\\eva\\zhgyak\\battleofshapeswpf\\battleofshapeswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ADF962-0C2F-4832-8310-276C0CB26608}|BattleOfShapesWPF\\BattleOfShapesWPF.csproj|solutionrelative:battleofshapeswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\ViewModelAndStuff\\Field.cs",
+              "RelativeDocumentMoniker": "BattleOfShapesWPF\\ViewModelAndStuff\\Field.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\ViewModelAndStuff\\Field.cs",
+              "RelativeToolTip": "BattleOfShapesWPF\\ViewModelAndStuff\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:24:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\ViewModelAndStuff\\ViewModel.cs",
+              "RelativeDocumentMoniker": "BattleOfShapesWPF\\ViewModelAndStuff\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\ViewModelAndStuff\\ViewModel.cs",
+              "RelativeToolTip": "BattleOfShapesWPF\\ViewModelAndStuff\\ViewModel.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAAMIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:06:23.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BattleOfShapesWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\MainWindow.xaml",
+              "RelativeToolTip": "BattleOfShapesWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T08:19:05.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EArgs.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Model\\EArgs.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Model\\EArgs.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Model\\EArgs.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Model\\EArgs.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:10:53.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Persistence\\Table.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Persistence\\Table.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Persistence\\Table.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Persistence\\Table.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwFwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:19:56.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BattleOfShapesWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\App.xaml.cs",
+              "RelativeToolTip": "BattleOfShapesWPF\\App.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:19:21.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\App.xaml",
+              "RelativeDocumentMoniker": "BattleOfShapesWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\App.xaml",
+              "RelativeToolTip": "BattleOfShapesWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T09:19:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Model\\Game.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Model\\Game.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Model\\Game.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Model\\Game.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:42:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Access.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Persistence\\Access.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Persistence\\Access.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Persistence\\Access.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Persistence\\Access.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:22:39.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Program.cs",
+              "RelativeDocumentMoniker": "ModelAndPersistence\\Program.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\ModelAndPersistence\\Program.cs",
+              "RelativeToolTip": "ModelAndPersistence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:19:29.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BattleOfShapesWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Adorj\u00E1n\\Documents\\2.\u00E9v\\eva\\zhgyak\\BattleOfShapesWPF\\BattleOfShapesWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BattleOfShapesWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:19:00.787Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
