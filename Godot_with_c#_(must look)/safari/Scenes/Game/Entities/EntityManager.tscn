@@ -1,0 +1,37 @@
+[gd_scene load_steps=9 format=3 uid="uid://d0frxisjybgmj"]
+
+[ext_resource type="Script" uid="uid://colhqgw5dfre" path="res://Scripts/Game/Entities/EntityManager.cs" id="1_4iryk"]
+[ext_resource type="PackedScene" uid="uid://kplhmrecwlpy" path="res://Scenes/Game/MapManager.tscn" id="1_jdygj"]
+[ext_resource type="PackedScene" uid="uid://cd1g3hxifny56" path="res://Scenes/Game/Entities/Animals/Stag.tscn" id="2_3w8j5"]
+[ext_resource type="PackedScene" uid="uid://jxpe67uws1vl" path="res://Scenes/Game/Entities/Jeep.tscn" id="3_8gnmh"]
+[ext_resource type="PackedScene" uid="uid://ukrb4rn6svjs" path="res://Scenes/Game/Entities/Animals/Boar.tscn" id="4_m8fn5"]
+[ext_resource type="PackedScene" uid="uid://b2jsgca8l4sc4" path="res://Scenes/Game/Entities/Animals/hyena.tscn" id="5_n6001"]
+[ext_resource type="Texture2D" uid="uid://yv658wrsbimi" path="res://Assets/LightTextures/chiplight.png" id="6_46v8k"]
+
+[sub_resource type="NavigationPolygon" id="NavigationPolygon_di8c4"]
+vertices = PackedVector2Array(988.906, 81.2578, 927.203, 638.57, 287.617, 542.773, 424.477, 42.5391)
+polygons = Array[PackedInt32Array]([PackedInt32Array(0, 1, 2, 3)])
+outlines = Array[PackedVector2Array]([PackedVector2Array(417, 32, 1000, 72, 936, 650, 275, 551)])
+parsed_collision_mask = 4294967294
+
+[node name="EntityManager" type="Node2D"]
+script = ExtResource("1_4iryk")
+MapManagerPath = NodePath("MapManager")
+BuyMenuPath = NodePath("/root/MainModel/GameOverlay/Control/TabContainer")
+StagScene = ExtResource("2_3w8j5")
+WolfScene = ExtResource("3_8gnmh")
+BoarScene = ExtResource("4_m8fn5")
+HyenaScene = ExtResource("5_n6001")
+JeepScene = ExtResource("3_8gnmh")
+chipLightTexture = ExtResource("6_46v8k")
+
+[node name="MapManager" parent="." instance=ExtResource("1_jdygj")]
+position = Vector2(547, 114)
+
+[node name="NavigationRegion2D" type="NavigationRegion2D" parent="."]
+navigation_polygon = SubResource("NavigationPolygon_di8c4")
+use_edge_connections = false
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="NavigationRegion2D"]
+position = Vector2(33, 162)
+polygon = PackedVector2Array(106, 479, 935, 550, 993, -154, 101, -197)

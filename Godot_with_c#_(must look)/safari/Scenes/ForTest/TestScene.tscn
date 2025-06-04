@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://dkbmftsg1tncg"]
+
+[ext_resource type="Script" uid="uid://c3bn8j74l2lku" path="res://Scripts/ForTest/TestScene.cs" id="1_revhm"]
+[ext_resource type="PackedScene" uid="uid://d0frxisjybgmj" path="res://Scenes/Game/Entities/EntityManager.tscn" id="2_u34rb"]
+
+[node name="TestScene" type="Node2D"]
+script = ExtResource("1_revhm")
+
+[node name="EntityManager" parent="." instance=ExtResource("2_u34rb")]

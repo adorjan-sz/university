@@ -1,0 +1,115 @@
+[gd_scene load_steps=9 format=3 uid="uid://cvcgqbgatfjxj"]
+
+[ext_resource type="Script" uid="uid://le3xb13rtadk" path="res://Scripts/UI/Menus/LoadGameMenu.cs" id="1_ph2ik"]
+[ext_resource type="PackedScene" uid="uid://dfw6l5dasid0i" path="res://Scenes/Game/MainModel.tscn" id="2_0l0pu"]
+[ext_resource type="Texture2D" uid="uid://lxgqkfhgspkc" path="res://Assets/UI/Background/Background.png" id="3_0l0pu"]
+[ext_resource type="StyleBox" uid="uid://bib3ydln5hc3u" path="res://Resources/UI/Button.tres" id="4_yskn2"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_yskn2"]
+atlas = ExtResource("3_0l0pu")
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_seeok"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_dmcef"]
+bg_color = Color(0.52844, 0.261688, 0, 0.686275)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_yskn2"]
+content_margin_left = 5.0
+content_margin_top = 2.0
+content_margin_right = 5.0
+content_margin_bottom = 2.0
+bg_color = Color(0.529412, 0.262745, 0, 0.686275)
+corner_radius_top_left = 2
+corner_radius_top_right = 2
+corner_radius_bottom_right = 2
+corner_radius_bottom_left = 2
+shadow_color = Color(0.91931, 0.374861, 0.424856, 0.6)
+
+[node name="LoadGameMenu" type="Control" node_paths=PackedStringArray("FileDropdown", "LoadButton", "BackButton")]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+script = ExtResource("1_ph2ik")
+FileDropdown = NodePath("Panel/MarginContainer/VBoxContainer/FileDropdown")
+LoadButton = NodePath("Panel/MarginContainer/VBoxContainer/MarginContainer/VBoxContainer/LoadBtn")
+BackButton = NodePath("Panel/MarginContainer/VBoxContainer/MarginContainer/VBoxContainer/BackBtn")
+MainModelScene = ExtResource("2_0l0pu")
+
+[node name="Background" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = SubResource("AtlasTexture_yskn2")
+expand_mode = 3
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -250.0
+offset_top = -150.0
+offset_right = 250.0
+offset_bottom = 150.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="Panel"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 50
+theme_override_constants/margin_top = 50
+theme_override_constants/margin_right = 50
+theme_override_constants/margin_bottom = 50
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Panel/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 20
+
+[node name="Label" type="Label" parent="Panel/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.517647, 0, 1)
+theme_override_colors/font_shadow_color = Color(0.404491, 0.194409, 0, 1)
+theme_override_constants/shadow_outline_size = 3
+theme_override_font_sizes/font_size = 32
+text = "Load Game"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="FileDropdown" type="OptionButton" parent="Panel/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_styles/hover = SubResource("StyleBoxFlat_seeok")
+theme_override_styles/normal = SubResource("StyleBoxFlat_dmcef")
+alignment = 1
+
+[node name="MarginContainer" type="MarginContainer" parent="Panel/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 0
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Panel/MarginContainer/VBoxContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="LoadBtn" type="Button" parent="Panel/MarginContainer/VBoxContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_styles/normal = ExtResource("4_yskn2")
+text = "Load"
+
+[node name="BackBtn" type="Button" parent="Panel/MarginContainer/VBoxContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_styles/normal = SubResource("StyleBoxFlat_yskn2")
+text = "Back"

@@ -1,0 +1,187 @@
+[gd_scene load_steps=10 format=3 uid="uid://c01c0letxati6"]
+
+[ext_resource type="Script" uid="uid://cyjeb46g2fa4x" path="res://Scripts/UI/Overlays/TopBar.cs" id="1_hj25h"]
+[ext_resource type="PackedScene" uid="uid://dow1os8qmsphb" path="res://Scenes/UI/Overlays/TimeControlOverlay.tscn" id="1_o10yt"]
+[ext_resource type="Texture2D" uid="uid://chpc6l0ee67ri" path="res://Assets/UI/Icons/coin.png" id="2_7mtfq"]
+[ext_resource type="Texture2D" uid="uid://beugi8nnuhkfl" path="res://Assets/UI/Icons/pet.png" id="3_pufye"]
+[ext_resource type="Texture2D" uid="uid://chxnniirvsr0y" path="res://Assets/UI/Icons/Carnivore.png" id="4_3aiby"]
+[ext_resource type="Texture2D" uid="uid://bv1323i3lfrwj" path="res://Assets/UI/Icons/tourist.png" id="4_qwhfr"]
+[ext_resource type="Texture2D" uid="uid://cto0uqxkem67g" path="res://Assets/UI/Icons/star.png" id="5_qwhfr"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_3aiby"]
+atlas = ExtResource("5_qwhfr")
+region = Rect2(0, 0, 120, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gnxrx"]
+atlas = ExtResource("5_qwhfr")
+region = Rect2(0, 0, 120, 24)
+
+[node name="TopBar" type="Control" node_paths=PackedStringArray("MoneyLabel", "HerbivoreLabel", "CarnivoreLabel", "TouristLabel", "ReviewProgressBar", "TimeLabel", "ParkNameLabel", "MenuButton")]
+layout_mode = 3
+anchors_preset = 10
+anchor_right = 1.0
+grow_horizontal = 2
+script = ExtResource("1_hj25h")
+MoneyLabel = NodePath("VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Money/MoneyLabel")
+HerbivoreLabel = NodePath("VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Herbivore/HerbivoreLabel")
+CarnivoreLabel = NodePath("VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Carnivore/CarnivoreLabel")
+TouristLabel = NodePath("VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Tourist/TouristLabel")
+ReviewProgressBar = NodePath("VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Tourist/TouristReview")
+TimeLabel = NodePath("VBoxContainer/PanelContainer/HBoxContainer/CenterContainer/TimeLabel")
+ParkNameLabel = NodePath("VBoxContainer/PanelContainer/HBoxContainer/RightContainer/HBoxContainer/ParkNameLabel")
+MenuButton = NodePath("VBoxContainer/PanelContainer/HBoxContainer/RightContainer/HBoxContainer/MenuBtn")
+EntityMangerPath = NodePath("/root/MainModel/EntityManager")
+LightMangerPath = NodePath("/root/MainModel/EntityManager/MapManager/MainLight")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 23.0
+grow_horizontal = 2
+alignment = 1
+
+[node name="PanelContainer" type="PanelContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="LeftContainer" type="MarginContainer" parent="VBoxContainer/PanelContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 6
+theme_override_constants/margin_right = 4
+theme_override_constants/margin_bottom = 6
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Money" type="HBoxContainer" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="MoneyIcon" type="TextureRect" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Money"]
+layout_mode = 2
+tooltip_text = "Money"
+texture = ExtResource("2_7mtfq")
+expand_mode = 3
+
+[node name="MoneyLabel" type="Label" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Money"]
+layout_mode = 2
+text = "500"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Separator2" type="Control" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Herbivore" type="HBoxContainer" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="HerbivoreIcon" type="TextureRect" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Herbivore"]
+layout_mode = 2
+tooltip_text = "Herbivore count"
+texture = ExtResource("3_pufye")
+expand_mode = 3
+
+[node name="HerbivoreLabel" type="Label" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Herbivore"]
+layout_mode = 2
+text = "0"
+
+[node name="Separator5" type="Control" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Carnivore" type="HBoxContainer" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="CarnivoreIcon" type="TextureRect" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Carnivore"]
+layout_mode = 2
+tooltip_text = "Carnivore count"
+texture = ExtResource("4_3aiby")
+expand_mode = 3
+
+[node name="CarnivoreLabel" type="Label" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Carnivore"]
+layout_mode = 2
+text = "0"
+
+[node name="Separator3" type="Control" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Tourist" type="HBoxContainer" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="TouristIcon" type="TextureRect" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Tourist"]
+layout_mode = 2
+tooltip_text = "Tourist count"
+texture = ExtResource("4_qwhfr")
+expand_mode = 3
+
+[node name="TouristLabel" type="Label" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Tourist"]
+layout_mode = 2
+text = "0"
+
+[node name="TouristReview" type="TextureProgressBar" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer/Tourist"]
+texture_repeat = 2
+layout_mode = 2
+tooltip_text = "Average tourist review"
+min_value = 1.0
+max_value = 5.0
+step = 0.0
+value = 3.0
+texture_under = SubResource("AtlasTexture_3aiby")
+texture_progress = SubResource("AtlasTexture_gnxrx")
+tint_under = Color(0.06, 0.06, 0.06, 0.380392)
+
+[node name="Separator4" type="Control" parent="VBoxContainer/PanelContainer/HBoxContainer/LeftContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="CenterContainer" type="CenterContainer" parent="VBoxContainer/PanelContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+
+[node name="TimeLabel" type="Label" parent="VBoxContainer/PanelContainer/HBoxContainer/CenterContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 24
+text = "23:06"
+horizontal_alignment = 1
+
+[node name="RightContainer" type="MarginContainer" parent="VBoxContainer/PanelContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 4
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 4
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/PanelContainer/HBoxContainer/RightContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+alignment = 2
+
+[node name="Separator" type="Control" parent="VBoxContainer/PanelContainer/HBoxContainer/RightContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="ParkNameLabel" type="Label" parent="VBoxContainer/PanelContainer/HBoxContainer/RightContainer/HBoxContainer"]
+layout_mode = 2
+text = "asdasdasdasdas"
+
+[node name="Separator2" type="Control" parent="VBoxContainer/PanelContainer/HBoxContainer/RightContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="MenuBtn" type="Button" parent="VBoxContainer/PanelContainer/HBoxContainer/RightContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "Menu"
+
+[node name="TimeControlOverlay" parent="VBoxContainer" instance=ExtResource("1_o10yt")]
+layout_mode = 2
+size_flags_horizontal = 4

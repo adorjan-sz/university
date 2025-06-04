@@ -1,0 +1,44 @@
+[gd_scene load_steps=6 format=3 uid="uid://cj0j7anysm530"]
+
+[ext_resource type="PackedScene" uid="uid://gxjgppmvudk0" path="res://Scenes/UI/Overlays/MiniMap.tscn" id="1_fjagj"]
+[ext_resource type="PackedScene" uid="uid://glp7kxd0fnoa" path="res://Scenes/UI/Overlays/BuyMenuOverlay.tscn" id="2_e0kf4"]
+[ext_resource type="PackedScene" uid="uid://c01c0letxati6" path="res://Scenes/UI/Overlays/TopBar.tscn" id="3_fjagj"]
+[ext_resource type="PackedScene" uid="uid://cfxsw6ac0tqff" path="res://Scenes/UI/Overlays/PopupMenu.tscn" id="4_0t42p"]
+[ext_resource type="PackedScene" uid="uid://d3c1tq7nvk1v1" path="res://Scenes/UI/Overlays/GameOverOverlay.tscn" id="5_nok6k"]
+
+[node name="GameOverlay" type="CanvasLayer"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+mouse_default_cursor_shape = 8
+
+[node name="PopupMenu" parent="Control" instance=ExtResource("4_0t42p")]
+visible = false
+layout_mode = 1
+TopBarPath = NodePath("../TopBar")
+
+[node name="TopBar" parent="Control" instance=ExtResource("3_fjagj")]
+layout_mode = 1
+
+[node name="TabContainer" parent="Control" instance=ExtResource("2_e0kf4")]
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -180.0
+offset_bottom = 0.0
+grow_vertical = 0
+mouse_filter = 0
+
+[node name="MiniMap" parent="Control" instance=ExtResource("1_fjagj")]
+layout_mode = 1
+
+[node name="GameOverOverlay" parent="Control" instance=ExtResource("5_nok6k")]
+layout_mode = 1
+EntityManagerPath = NodePath("/root/MainModel/EntityManager")

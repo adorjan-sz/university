@@ -1,0 +1,1 @@
+from a height map the program creates an obj without the vertexes that has 0 height
